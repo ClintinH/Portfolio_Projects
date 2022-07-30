@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-07-30T11:05:07.621Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.2.2" etag="jiVZyiPBRk1aMIw0dOgQ" type="github"><diagram id="JUbkFRHb6d1zBr4sEOrN">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-30T11:21:12.064Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="kxsNk1x7PW06WGkfsIXN" version="20.2.2" type="github">
+  <diagram id="JUbkFRHb6d1zBr4sEOrN" name="Page-1">
+    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="25Mnqkrbem5WSyrcIev_-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="25Mnqkrbem5WSyrcIev_-2" value="User" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="55" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="25Mnqkrbem5WSyrcIev_-4" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="130" width="435" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="25Mnqkrbem5WSyrcIev_-5" value="&lt;h1&gt;Features&lt;/h1&gt;&lt;p&gt;1. User changes snakes&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; direction with arrow&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; keys&lt;/p&gt;&lt;p&gt;2. Snake can eat food to&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;grow in length&lt;/p&gt;&lt;p&gt;3. User scores point for&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; every food snake eats&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Environment:&lt;/p&gt;&lt;p&gt;1. Game ends when&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; snake collides with the&amp;nbsp; &amp;nbsp; &amp;nbsp; outer walls of area or&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; when snake collides&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; with itself.&lt;/p&gt;&lt;p&gt;2. Snake movement&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; speed increases as the&amp;nbsp; &amp;nbsp; &amp;nbsp; snake eats food&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="20" width="150" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="25Mnqkrbem5WSyrcIev_-6" value="User" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="55" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="25Mnqkrbem5WSyrcIev_-7" value="Snake" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
