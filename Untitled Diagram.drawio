@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-07-30T11:21:12.064Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="kxsNk1x7PW06WGkfsIXN" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-30T11:37:10.749Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="DR2Wvjfax-MoDENY92Ab" version="20.2.2" type="github">
   <diagram id="JUbkFRHb6d1zBr4sEOrN" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="25Mnqkrbem5WSyrcIev_-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="209" y="41" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="25Mnqkrbem5WSyrcIev_-2" value="User" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="55" width="60" height="30" as="geometry" />
+          <mxGeometry x="239" y="56" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="25Mnqkrbem5WSyrcIev_-4" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="-130" y="130" width="435" height="175" as="geometry" />
@@ -17,10 +17,119 @@
           <mxGeometry x="10" y="20" width="150" height="400" as="geometry" />
         </mxCell>
         <mxCell id="25Mnqkrbem5WSyrcIev_-6" value="User" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="55" width="60" height="30" as="geometry" />
+          <mxGeometry x="449" y="56" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="25Mnqkrbem5WSyrcIev_-7" value="Snake" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="40" width="120" height="60" as="geometry" />
+        <mxCell id="25Mnqkrbem5WSyrcIev_-7" value="Snake" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="419" y="41" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="25Mnqkrbem5WSyrcIev_-9" value="Food" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="419" y="141" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="25Mnqkrbem5WSyrcIev_-10" value="Score" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="599" y="141" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="25Mnqkrbem5WSyrcIev_-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="209" y="241" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="25Mnqkrbem5WSyrcIev_-12" value="Environment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="239" y="256" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="25Mnqkrbem5WSyrcIev_-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="419" y="241" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="25Mnqkrbem5WSyrcIev_-14" value="Game Ends" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="449" y="256" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="25Mnqkrbem5WSyrcIev_-17" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="419" y="331" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="25Mnqkrbem5WSyrcIev_-18" value="Walls" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="449" y="346" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="25Mnqkrbem5WSyrcIev_-19" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="574" y="331" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="25Mnqkrbem5WSyrcIev_-20" value="Snake Body" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="604" y="346" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="25Mnqkrbem5WSyrcIev_-21" value="store score" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="619" y="221" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="25Mnqkrbem5WSyrcIev_-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="329" y="70.5" as="sourcePoint" />
+            <mxPoint x="419" y="71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="25Mnqkrbem5WSyrcIev_-23" value="user move &lt;br&gt;snake" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="25Mnqkrbem5WSyrcIev_-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="25Mnqkrbem5WSyrcIev_-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="25Mnqkrbem5WSyrcIev_-7" target="25Mnqkrbem5WSyrcIev_-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="479" y="121" as="sourcePoint" />
+            <mxPoint x="579" y="121" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="25Mnqkrbem5WSyrcIev_-26" value="snake eats food and grow longer" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="25Mnqkrbem5WSyrcIev_-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="25Mnqkrbem5WSyrcIev_-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.007;entryY=0.56;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.014;exitY=0.56;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="25Mnqkrbem5WSyrcIev_-9" target="25Mnqkrbem5WSyrcIev_-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="479" y="201" as="sourcePoint" />
+            <mxPoint x="579" y="201" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="25Mnqkrbem5WSyrcIev_-28" value="score &lt;br&gt;increases" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="25Mnqkrbem5WSyrcIev_-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="25Mnqkrbem5WSyrcIev_-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="25Mnqkrbem5WSyrcIev_-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="719" y="170.8" as="sourcePoint" />
+            <mxPoint x="769" y="251" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="769" y="171" />
+              <mxPoint x="769" y="246" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="25Mnqkrbem5WSyrcIev_-30" value="score gets store in&amp;nbsp;&lt;br&gt;local storage as&amp;nbsp;&lt;br&gt;high score" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="25Mnqkrbem5WSyrcIev_-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="25Mnqkrbem5WSyrcIev_-31" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="340" y="271" as="sourcePoint" />
+            <mxPoint x="410" y="271" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="25Mnqkrbem5WSyrcIev_-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="25Mnqkrbem5WSyrcIev_-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="350" as="sourcePoint" />
+            <mxPoint x="479" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="25Mnqkrbem5WSyrcIev_-33" value="snake collides with walls" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="25Mnqkrbem5WSyrcIev_-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="25Mnqkrbem5WSyrcIev_-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="539" y="280" as="sourcePoint" />
+            <mxPoint x="640" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="25Mnqkrbem5WSyrcIev_-35" value="snake collides with&lt;br&gt;itself" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="25Mnqkrbem5WSyrcIev_-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="20" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
